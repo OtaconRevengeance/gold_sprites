@@ -3,3 +3,5 @@ USE TRUE COLOR OR GREYSCALE, NOT BOTH There is 2 Versions One is for TRUECOLOR a
 
 <img width="551" height="459" alt="image" src="https://github.com/user-attachments/assets/f756e73d-99e3-4c34-b80d-0c5c67273174" />
 
+RELEASE
+https://github.com/OtaconRevengeance/gold_sprites/releases
