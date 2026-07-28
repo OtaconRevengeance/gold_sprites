@@ -12,6 +12,6 @@ https://github.com/OtaconRevengeance/gold_sprites/releases
 
 
 <h2>Known Issues</h2>
--True Color Sprites are 1-1 counterparts of gold but do not display correctly on the Start Menu and the Pokedex
+<sup>*True Color Sprites are 1-1 counterparts of gold but do not display correctly on the Start Menu and the Pokedex
 
--Greyscale Sprites are not 1-1 counterparts of gold when using the RED Pallet or any Pallet in the game but are more compatible with Gen1Recomp by default 
+*Grayscale Sprites are not 1-1 counterparts of gold when using the ingame pallets but work with every pallet in game and are more compatible with Gen1Recomp</sup>
