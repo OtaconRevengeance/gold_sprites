@@ -18,6 +18,8 @@ Bring the look of Pokémon Gold into the original Pokémon Red/Blue experience. 
 </tr>
 </table>
 
+[If you would like to use Silver Sprites please head here](https://github.com/OtaconRevengeance/silver_sprites)
+
 RELEASE
 https://github.com/OtaconRevengeance/gold_sprites/releases
 
