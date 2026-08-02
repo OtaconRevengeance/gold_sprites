@@ -4,11 +4,11 @@ https://github.com/bryanthaboi/pokemon-gen1-recomp-project
 
 Bring the look of Pokémon Gold & Silver into the original Pokémon Red/Blue experience. This mod replaces the Gen 1 battle sprites with faithfully recreated Gold or Silver-era sprites, giving every Pokémon the cleaner outlines, improved proportions, and iconic Game Boy Color aesthetic of the Johto games. A new SPRITE PACK option lets you pick GOLD or SILVER art; SPRITE STYLE then applies on top, with True Color, Grayscale (tinted by whichever in-game palette is active), and Space World 97 (early prototype-style line art). When SPRITE STYLE is set to SPACE WORLD 97, a SW YEAR row appears on the game's own OPTIONS menu letting you swap a handful of Pokémon that had distinct art at both the 1997 and 1998 Space World showings between the two. Alongside these sits the existing SPRITE DISPLAY (front/back/both) option. This mod is now a complete replacement for the separate for all versions of my Gold & Silver mods up till this point -- If you have the Gold or Silver mods up till this point they can be removed safely **Please Do Not Reupload**
 
-Gold
+<h2>Gold</h2>
 
 <img width="551" height="459" alt="image" src="https://github.com/user-attachments/assets/f756e73d-99e3-4c34-b80d-0c5c67273174" />
 
-Silver
+<h2>Silver</h2>
 
 <img width="552" height="369" alt="image" src="https://github.com/user-attachments/assets/387800b0-6b92-4ef4-8fd8-9adbc45fb2d8" />
 
