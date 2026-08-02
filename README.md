@@ -40,6 +40,7 @@ https://github.com/user-attachments/assets/847d85af-c50a-42ce-a4f3-949c01e12942
 RELEASE
 https://github.com/OtaconRevengeance/gold_sprites/releases
 
+<img width="791" height="340" alt="image" src="https://github.com/user-attachments/assets/b62de731-cdef-4b48-a51e-513256125367" />
 
 Special Thanks
 [ciddmandude](https://github.com/ciddmandude/), [Kamon](https://github.com/Kamon137)
