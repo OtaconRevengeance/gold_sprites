@@ -18,6 +18,15 @@ Bring the look of Pokémon Gold into the original Pokémon Red/Blue experience. 
 </tr>
 </table>
 
+<h3>NOW WITH THE POWER OF SPACE!, SPACE WORLD '97 AS JOINED THE BATTLE</h3>
+
+<img width="555" height="646" alt="image" src="https://github.com/user-attachments/assets/1efb2280-9a41-4691-8d16-0beeec6c0c37" />
+<img width="340" height="168" alt="image" src="https://github.com/user-attachments/assets/e527ee41-026a-416d-98dc-04dcbc30dfbc" />
+<img width="336" height="212" alt="image" src="https://github.com/user-attachments/assets/615d3c09-3bf4-4c40-b9e3-ec20c56e7ab3" /> 
+
+
+
+
 [If you would like to use Silver Sprites please head here](https://github.com/OtaconRevengeance/silver_sprites)
 
 RELEASE
