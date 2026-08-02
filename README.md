@@ -29,6 +29,9 @@ Bring the look of Pokémon Gold into the original Pokémon Red/Blue experience. 
 <img width="340" height="168" alt="image" src="https://github.com/user-attachments/assets/e527ee41-026a-416d-98dc-04dcbc30dfbc" />
 
 
+https://github.com/user-attachments/assets/847d85af-c50a-42ce-a4f3-949c01e12942
+
+  
 RELEASE
 https://github.com/OtaconRevengeance/gold_sprites/releases
 
