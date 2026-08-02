@@ -25,6 +25,6 @@ https://github.com/OtaconRevengeance/gold_sprites/releases
 
 
 Special Thanks
-[ciddmandude](https://github.com/ciddmandude/)
+[ciddmandude](https://github.com/ciddmandude/), [Kamon](https://github.com/Kamon137)
 
 
