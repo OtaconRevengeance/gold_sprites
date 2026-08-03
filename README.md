@@ -46,3 +46,8 @@ Special Thanks
 [ciddmandude](https://github.com/ciddmandude/), [Kamon](https://github.com/Kamon137)
 
 
+<h2 align="center">
+  <a href="https://github.com/OtaconRevengeance/start_menu_extras/">
+    Have too many mods taking up Start Menu space? Try Start Menu Extras!
+  </a>
+</h2>
