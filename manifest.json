@@ -1,0 +1,9 @@
+{
+  "id": "Gold_Silver_Sprites",
+  "name": "Pokémon Gold & Silver Sprites",
+  "version": "1.0.1",
+  "category": "GAMEPLAY",
+  "entry": "main.lua",
+  "api": 2,
+  "description": "Bring the look of Pokémon Gold and Silver into the original Pokémon Red/Blue experience. This mod replaces the Gen 1 battle sprites with faithfully recreated Gold or Silver-era sprites, giving every Pokémon the cleaner outlines, improved proportions, and iconic Game Boy Color aesthetic of the Johto games. A new SPRITE PACK option lets you pick GOLD or SILVER art; SPRITE STYLE then applies on top, with True Color, Grayscale (tinted by whichever in-game palette is active), and Space World 97 (early prototype-style line art). When SPRITE STYLE is set to SPACE WORLD 97, a SW YEAR row appears on the game's own OPTIONS menu letting you swap a handful of Pokémon that had distinct art at both the 1997 and 1998 Space World showings between the two. Alongside these sits the existing SPRITE DISPLAY (front/back/both) option. This mod is now a complete replacement for the separate Grayscale Sprites mod and the standalone Silver Sprites mod -- do not run those alongside this one."
+}
