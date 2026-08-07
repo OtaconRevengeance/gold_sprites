@@ -36,7 +36,17 @@ Showing some of the settings (Outdated But Similar)
 
 https://github.com/user-attachments/assets/847d85af-c50a-42ce-a4f3-949c01e12942
 
-  
+<h2>Trainer Sprites and Player Back Sprites Now Available!</h2>
+
+<img width="553" height="464" alt="2026-08-07 15_27_33-mods - File Explorer" src="https://github.com/user-attachments/assets/4c1e6d5b-9da8-4af4-b6dd-5a55ea9df558" />
+
+<img width="557" height="354" alt="2026-08-07 15_27_43-mods - File Explorer" src="https://github.com/user-attachments/assets/4d7b1181-2b82-46f5-90b0-38623df49097" />
+
+<h2>New Colored Battle Animations Have Begun</h2>
+
+<img width="275" height="275" alt="2026-08-07 15_27_49-mods - File Explorer" src="https://github.com/user-attachments/assets/04b2a126-101e-4507-9d09-66e6c84941dc" />
+
+
 RELEASE
 https://github.com/OtaconRevengeance/gold_sprites/releases
 
