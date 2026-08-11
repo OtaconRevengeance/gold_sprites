@@ -1,4 +1,4 @@
-<h1>Gold & Silver Sprites For Gen1Recomp</h1>
+<h1>[GEN1] Gold & Silver Sprites For Gen1Recomp</h1>
 
 https://github.com/bryanthaboi/pokemon-gen1-recomp-project
 
