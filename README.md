@@ -49,9 +49,12 @@ https://github.com/user-attachments/assets/847d85af-c50a-42ce-a4f3-949c01e12942
 
 <img width="275" height="275" alt="2026-08-07 15_27_49-mods - File Explorer" src="https://github.com/user-attachments/assets/04b2a126-101e-4507-9d09-66e6c84941dc" />
 
+<h2>New Opening Sprites </h2>
+
 
 <img width="468" height="350" alt="Recording 2026-08-21 214556" src="https://github.com/user-attachments/assets/cdcda9f6-d4f5-463f-ab92-8948b52c64f5" />
 
+<h2>New Pokedex Icons and MORE!</h2>
 
 <img width="318" height="284" alt="Recording 2026-08-16 182931" src="https://github.com/user-attachments/assets/efb9f891-a865-41f7-a6ec-24ed4366eb7c" />
 
